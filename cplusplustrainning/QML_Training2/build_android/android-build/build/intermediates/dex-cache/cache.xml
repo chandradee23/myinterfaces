@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/libs/QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2e3cd96346f3f4121f60201e208179885e99705">
+        <dex dex="/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/build/intermediates/pre-dexed/debug/QtAndroid-bundled_d8cd94b620283d15e0c915ac4ad2c83f4a16503d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/libs/QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee34d3761ee265c2aabb81975af4f32af97f7906">
+        <dex dex="/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/build/intermediates/pre-dexed/debug/QtAndroidBearer-bundled_22df1d55b78631f0d10cbfcc35d843f6d9cbacac.jar" />
+    </item>
+
+</items>

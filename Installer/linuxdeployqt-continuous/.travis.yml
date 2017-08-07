@@ -1,0 +1,27 @@
+language: cpp
+sudo: required
+dist: trusty
+
+os: linux
+
+env:
+  global:
+    - DISPLAY=:99
+
+before_install:
+  - ./tests/tests-environment.sh
+
+script:
+ - ./tests/tests-ci.sh
+
+after_success:
+  - wget -c https://github.com/probonopd/uploadtool/raw/master/upload.sh
+  - bash ./upload.sh ./linuxdeployqt-*.AppImage
+
+after_script:
+  - "xpra stop :99"
+
+branches:
+  except:
+    - # Do not build tags that we create when we upload to GitHub Releases
+    - /^(?i:continuous)$/

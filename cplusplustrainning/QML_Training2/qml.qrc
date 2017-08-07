@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TabShowAllCameras.qml</file>
+        <file>TabCameraCalibrationForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>TabCameraCalibration.qml</file>
+        <file>TabShowAllCamerasForm.ui.qml</file>
+    </qresource>
+</RCC>

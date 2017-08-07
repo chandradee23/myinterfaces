@@ -1,0 +1,128 @@
+[
+    {
+        "outputFile": "/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 351,
+                    "endColumn": 12,
+                    "endOffset": 48963
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/res/values/libs.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3639,
+                        "endLine": 407,
+                        "endColumn": 12,
+                        "endOffset": 52547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 48968,
+                    "endLine": 383,
+                    "endColumn": 12,
+                    "endOffset": 51975
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/res/values/libs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 51980,
+                    "endLine": 386,
+                    "endColumn": 12,
+                    "endOffset": 52029
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/res/values/libs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 52034,
+                    "endLine": 398,
+                    "endColumn": 13,
+                    "endOffset": 52308
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/res/values/libs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 52313,
+                    "endLine": 401,
+                    "endColumn": 12,
+                    "endOffset": 52423
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt_interfaces/cplusplustrainning/QML_Training2/build_android/android-build/res/values/libs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 52428,
+                    "endColumn": 107,
+                    "endOffset": 52531
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt5.9.1/5.9.1/android_x86/src/android/java/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 52536,
+                    "endColumn": 121,
+                    "endOffset": 52653
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt5.9.1/5.9.1/android_x86/src/android/java/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 52658,
+                    "endColumn": 111,
+                    "endOffset": 52765
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt5.9.1/5.9.1/android_x86/src/android/java/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 52770,
+                    "endColumn": 84,
+                    "endOffset": 52850
+                },
+                "from": {
+                    "file": "/home/gabriel/Qt5.9.1/5.9.1/android_x86/src/android/java/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

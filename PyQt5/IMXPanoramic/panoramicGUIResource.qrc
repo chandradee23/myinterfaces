@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Icon">
+    <file>Images/LNLS_logo_mini.jpg</file>
+  </qresource>
+</RCC>
